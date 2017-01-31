@@ -5,10 +5,7 @@ class StaticPagesController < ApplicationController
   def help
   end
 
-  def bar
-  end
+  def about
 
-  def baz
   end
-
 end
